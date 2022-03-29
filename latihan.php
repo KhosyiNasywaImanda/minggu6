@@ -12,7 +12,7 @@
                $mont = "Maret";
                $year = 2022;
                echo "<hr>";
-               echo "<h3> $bulan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $tahun</h3>"; 
+               echo "<h3> $mont &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $year</h3>"; 
                echo "<hr>";
                for($i = 1; $i <= 1; $i++) {
                     echo "<tr>";
